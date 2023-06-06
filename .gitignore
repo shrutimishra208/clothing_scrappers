@@ -1,0 +1,14 @@
+# Python
+venv
+*.pyc
+
+# Editor, Mac OS configs
+.idea
+.vscode/*
+.DS_Storevenv/
+.DS_Store
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
